@@ -1,4 +1,4 @@
-# Lost in Assets 📊
+# Lost in Assets 📊📈
 
 ## Overview 🎓
 "Lost in Assets" is a university project developed for a Database course. The project involves creating a comprehensive educational database designed to collect information on major transactions, data, and economic agents. This enables students and professors, through a dedicated graphical interface application, to pose economic and financial queries.
